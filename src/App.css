@@ -1,0 +1,15 @@
+.title{
+    background-color: #333;
+    color: #fff;
+    border-radius:10px;
+    padding:10px;
+}
+.cardwrapperStyle{
+    background-color:red;
+    padding: '10px';
+    margin: '10px';
+    align-items: center;
+    border-color: black;
+    border-radius: '5px';
+    box-shadow: '0 2px 3px #ccc';
+}
